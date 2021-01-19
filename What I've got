@@ -1,7 +1,7 @@
 let Discord = require("discord.js")
 let client = new Discord.Client()
 
-let TOKEN = ("")
+let TOKEN = ("TOKEN")
 
 client.on("ready", () => {
   client.user.setPresence({ activity: { name: "Overseeing the MTM" }})
@@ -23,3 +23,5 @@ client.on("message" , message => {
 });
 
 client.login("TOKEN")
+
+#ok, I don't know that much about coding still.
