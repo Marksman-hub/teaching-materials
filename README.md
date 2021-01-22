@@ -1,5 +1,5 @@
 # teaching-materials
-With me teaching python
+With me teaching js
 
 let Discord = require("discord.js")
 let client = new Discord.Client()
@@ -68,3 +68,5 @@ client.on("message", message => {
 client.login("TOKEN is here")
 
 # I tried to make a handler but failed, I'll try again tomorrow.
+
+
